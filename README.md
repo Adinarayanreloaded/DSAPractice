@@ -1,3 +1,3 @@
-# DSAPractice
+# DSA Practice
 
 Self Practice Repository
